@@ -1,0 +1,21 @@
+.itemStyle {
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+  border: 2px solid black;
+  width: 125px;
+  height: 125px;
+margin-top: 25px;
+margin-left: 20px;
+}
+.best{
+    background-color: rgb(250, 140, 137);
+    border: 5px solid rgb(245, 4, 52);
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    width: 130px;
+    height: 110px;
+    margin: 6px;
+    margin-top: 8px;
+  }

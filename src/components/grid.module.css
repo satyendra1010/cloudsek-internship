@@ -1,0 +1,34 @@
+.gridContainer {
+  border: 5px solid black;
+  display: inline-grid;
+  grid-column-gap: 5px;
+  grid-row-gap: 5px;
+  padding: 5px;
+}
+.showBtn {
+  display: flex;
+  justify-content: center;
+  margin-left: 500px;
+  margin-bottom: 10px;
+  flex-direction: column;
+}
+.edit {
+  display: flex;
+  flex-direction: column;
+  width: 130px;
+  padding: 5px;
+  margin-right: 500px;
+align-items: center;
+}
+
+.checkBox {
+  width: 200px;
+  height: 120px;
+  margin-left: 700px;
+  justify-content: space-around;
+  display: flex;
+}
+.show{
+  margin-left: 200px;
+  margin-bottom: 20px;
+}
